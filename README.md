@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pranesan1484@gmail.com**
 
-- 📄My resume [https://drive.google.com/file/d/1UTCvVGZ6SJjozxjxs8Ykf3_Lmq27llfO/view?usp=sharing](https://drive.google.com/file/d/1UTCvVGZ6SJjozxjxs8Ykf3_Lmq27llfO/view?usp=sharing)
+- 📄My resume [https://drive.google.com/file/d/1fhHw9I8jkvfUKZKpqs8kKMGtCF-pMRqn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
