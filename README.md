@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 My Portfolio [pranesan.in](pranesan.in)
+- 👨‍💻 My Portfolio https://pranesan.in/
 
 - 📫 How to reach me **pranesan1484@gmail.com**
 
