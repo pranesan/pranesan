@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m in my third year **studying bachelors of computer science and design**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Full stack developer**
 
-- 👨‍💻 My Portfolio https://pranesan.in/
+- 👨‍💻 My Portfolio (https://pranesan.github.io/personal-portfolio/)
 
 - 📫 How to reach me **pranesan1484@gmail.com**
 
